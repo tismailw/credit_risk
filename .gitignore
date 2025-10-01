@@ -11,9 +11,8 @@ parquet_files/
 venv/
 .venv/
 env/
-.python-venv/
-pipenv/
 .pyproject-venv/
+model/venv/
 
 __pycache__/
 *.pyc
