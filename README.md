@@ -2,7 +2,7 @@
 
 This README documents the purpose and usage of the Jupyter notebook **`model.ipynb`**, which aggregates raw competition datasets into clean, analysis‑ready tables for the **Credit Risk Model Stability** project.
 
-> Context: This project builds a customer‑level credit default risk model for the Home Credit competition with an emphasis on robustness under dataset shift. fileciteturn0file0
+> Context: This project builds a customer‑level credit default risk model for the Home Credit competition with an emphasis on robustness under dataset shift.
 
 ---
 
@@ -125,7 +125,7 @@ print(df.shape, df.isna().mean().round(4).head())
 - Gradient boosting: LightGBM, XGBoost, CatBoost
 - Stability diagnostics: out-of-time validation, PSI/CSI, temporal CV
 
-> See the project plan for the staged model experiments and milestones. fileciteturn0file0
+> See the project plan for the staged model experiments and milestones.
 
 ---
 
@@ -140,7 +140,7 @@ print(df.shape, df.isna().mean().round(4).head())
 ## 📄 License & attribution
 
 - Data © respective owners (Home Credit / Kaggle terms).
-- Code in this repo under MIT (or your project’s license).
+- Code in this repo under MIT.
 - Please cite the competition and any external write‑ups you borrowed ideas from.
 
 ---
